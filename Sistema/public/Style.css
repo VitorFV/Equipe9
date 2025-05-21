@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body{
+	font-family: Arial, sans-serif;
+	text-align: center;
+	padding: 50px;
+	background-color: rgb(0, 128, 128)
+	}
+
+.menu{
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	max-width: 300px;
+	margin: 0 auto;
+	font-size: 40px;
+	
+}
+
+a{
+	display: block;
+	padding: 15px;
+	background-color: #91ffe0;
+	border-radius: 8px;
+	font-size: 25px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+img{
+	height: 500%;
+}
+
+h1{
+	color: rgb(0, 255, 255);
+	font-size: 40px;
+}
+
+h2{
+	color: rgb(0, 255, 255);
+}
+
+p{
+	color: rgb(0, 255, 255);
+	font-size: 25px;
+}
+
+label{
+	color: rgb(0, 255, 255);
+}
