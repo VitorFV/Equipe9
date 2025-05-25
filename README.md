@@ -2,7 +2,7 @@ Equipe 9 Desafio C – Fábrica de Tecidos
 
 Membros: Vitor, Gabriel, Eduardo
 
-como rodar o código:
+Como rodar o código:
 
 1- Nomear as máquinas
 
